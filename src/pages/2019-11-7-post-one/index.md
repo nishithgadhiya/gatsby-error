@@ -5,6 +5,7 @@ title: 'What does it mean to learn something?'
 author: 'Wesley'
 ---
 ![Buddha](../../images/buddha.png)
+
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Saepe
 laborum nulla non possimus magnam. Perspiciatis quis eveniet
 provident, corporis laudantium id odio magni sunt reiciendis unde
